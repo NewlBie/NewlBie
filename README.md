@@ -1,36 +1,50 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0B0F19&text=NEAL%20BIJU%20VAKKACHAN&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=A855F7&desc=PRODUCT%20ENGINEER%20+%20CYBERSECURITY%20POLYMATH&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0B0F19&text=NEAL%20BIJU%20VAKKACHAN&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=A855F7&desc=PRODUCT%20ENGINEER%20•%20CYBERSECURITY%20POLYMATH&descSize=20&descAlignY=58&stroke=A855F7&strokeWidth=1" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=9333EA&center=true&vCenter=true&width=900&lines=Understanding+Systems+Deeply.;Breaking+Them+Ethically.;Rebuilding+Them+Better.;The+Intersection+of+Security+and+Experience." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=SYSTEMS+ENGINEER;ETHICAL+HACKER;PRODUCT+ARCHITECT;BUILDING+THE+FUTURE." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nealbiju/"><img src="https://img.shields.io/badge/LinkedIn_Professional-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nealbiju.dev@gmail.com"><img src="https://img.shields.io/badge/Secure_Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nealbiju/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:nealbiju.dev@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/NewlBie" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux_Kernel-89D111?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Certified-A855F7?style=flat-square&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-Encrypted-6366F1?style=flat-square&logo=wireshark&logoColor=white" />
+</p>
 
-<table align="center" border="0">
+---
+
+### ⚡ System Architecture
+
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <td width="55%" style="vertical-align: top;">
-      <h3>System Overview</h3>
-      <p>I am a second-year B.Tech CSE student at <b>IIIT Bhubaneswar</b> (97.62 Percentile, JEE Mains). I don't just write code; I architect systems that are <i>resilient under pressure</i> and <i>seamless by design</i>.</p>
-      <p>My work spans from low-level <b>Blockchain Security</b> and <b>3D Optimization</b> to high-level <b>Product Leadership</b> and <b>UI/UX Engineering</b>.</p>
+    <td width="60%" style="border: none;">
+      <p><b>I am a Product Engineer & Security Researcher</b> currently at <b>IIIT Bhubaneswar</b>. I don't just write code; I architect systems that are <i>resilient under pressure</i> and <i>seamless by design</i>.</p>
+      <p>My methodology bridges the gap between low-level <b>Blockchain Security</b> and high-level <b>User Experience</b>. I build for the edge cases, ensuring safety never compromises speed.</p>
     </td>
-    <td width="45%" style="vertical-align: top;">
-      <h3>Core Focus Area</h3>
-      • <b>Systems Curiosity</b>: Deep behavioral analysis.<br>
-      • <b>Security Mindset</b>: Natural, invisible protection.<br>
-      • <b>Product Thinking</b>: Engineering for humans.<br>
-      • <b>Execution</b>: Rapid, precision-focused building.
+    <td width="40%" style="border-left: 1px solid #30363d; padding-left: 20px;">
+      <b>CORE DIRECTIVES</b><br>
+      <code>01</code> <b>Systems Curiosity</b><br>
+      <code>02</code> <b>Security-First Logic</b><br>
+      <code>03</code> <b>Human-Centric Design</b><br>
+      <code>04</code> <b>Rapid Execution</b>
     </td>
   </tr>
 </table>
-
-<br>
 
 <h2 align="center">Professional Trajectory</h2>
 

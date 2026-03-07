@@ -77,83 +77,6 @@
 
 <br>
 
-<h2 align="center">📜 Education & Professional Credentials</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; vertical-align: top;">
-      <p align="center">
-        <img src="https://img.shields.io/badge/ACADEMIC-FOUNDATION-A855F7?style=for-the-badge&logo=googlescholar&logoColor=white" />
-      </p>
-      <p align="center">
-        <b>IIIT BHUBANESWAR</b><br>
-        <i>B.Tech in Computer Science</i><br><br>
-        <img src="https://img.shields.io/badge/JEE_MAINS-97.62_Percentile-6366F1?style=flat-square&logo=target&logoColor=white" /><br>
-        <small></small>
-      </p>
-    </td>
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; vertical-align: top;">
-      <p align="center">
-        <img src="https://img.shields.io/badge/PROFESSIONAL-VERIFIED-success?style=for-the-badge&logo=oracle&logoColor=white" />
-      </p>
-      <p align="left">
-        🛡️ <b>Oracle AI Autonomous Database</b> (2025)<br>
-        🛡️ <b>Oracle Autonomous Database Pro</b> (2025)<br>
-        🛡️ <b>ICTRD Certified Cyber Security Pro</b><br>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🏗️ Featured Builds</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background-color: #0D1117;">
-      <p align="left">
-        <img src="https://img.shields.io/badge/LIVE-ADVAITA26-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
-      </p>
-      <b>Cinematic Interactive Experience</b><br>
-      <small>Advanced motion layering and spatial audio integration. Optimized for cross-device high-fidelity performance.</small><br><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" />
-    </td>
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background-color: #0D1117;">
-      <p align="left">
-        <img src="https://img.shields.io/badge/SAAS-NETU-6366F1?style=for-the-badge&logo=strapi&logoColor=white" />
-      </p>
-      <b>Content Clarity Platform</b><br>
-      <small>Custom block-based editor featuring real-time interactive reader systems for deep content engagement.</small><br><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background-color: #0D1117;">
-      <p align="left">
-        <img src="https://img.shields.io/badge/MOBILE-SHOTTA-FF4081?style=for-the-badge&logo=flutter&logoColor=white" />
-      </p>
-      <b>Polaroid Analysis App</b><br>
-      <small>Flutter-based photo app with Python backend. Implements real-time image analysis filters and engagement logic.</small><br><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td width="50%" style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; background-color: #0D1117;">
-      <p align="left">
-        <img src="https://img.shields.io/badge/3D-PRECISION_3D-white?style=for-the-badge&logo=blender&logoColor=black" />
-      </p>
-      <b>Digital Cloning Lab</b><br>
-      <small>High-precision digital cloning using Blender rigging, NVIDIA Omniverse, and complex facial expression mapping.</small><br><br>
-      <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-      <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
 <h2 align="center">📊 Development Analytics</h2>
 
 <p align="center">
@@ -163,10 +86,6 @@
   <a href="https://github.com/NewlBie">
     <img src="https://gitspulse.vercel.app/api/cards/streak?username=NewlBie&theme=dark&title_color=A855F7&text_color=cbd5e1&icon_color=6366F1&bg_color=0D1117&border_color=A855F7" alt="GitHub Streak" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NewlBie&bg_color=0D1117&color=A855F7&line=6366F1&point=FFFFFF&area=true&hide_border=false&border_color=A855F7" width="100%" />
 </p>
 
 <br>

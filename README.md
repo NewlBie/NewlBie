@@ -60,45 +60,6 @@
 
 <br>
 
-<h2 align="center">🚀 Professional Trajectory</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" style="vertical-align: top; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-      <p align="left">
-        <img src="https://img.shields.io/badge/LEAD-Zeegnite-A855F7?style=flat-square" /><br>
-        <b>Head of Product Engineering</b><br>
-        <small>Architected a Flutter SaaS ecosystem from the ground up. Engineered custom reward algorithms that optimized system throughput by <b>50%</b>.</small>
-      </p>
-    </td>
-    <td width="50%" style="vertical-align: top; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-      <p align="left">
-        <img src="https://img.shields.io/badge/DEPT_LEAD-Investicly-6366F1?style=flat-square" /><br>
-        <b>Head of UI/UX</b><br>
-        <small>Directed a design-eng team of 12. Scaled from contributor to Department Head in 60 days by implementing high-performance UI frameworks.</small>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="vertical-align: top; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-      <p align="left">
-        <img src="https://img.shields.io/badge/SECURITY-Anoram-blueviolet?style=flat-square" /><br>
-        <b>Blockchain & Cybersecurity</b><br>
-        <small>Hardened DeFi/NFT smart contracts and managed threat monitoring using Nessus & SIEM tools to ensure zero-day resilience.</small>
-      </p>
-    </td>
-    <td width="50%" style="vertical-align: top; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-      <p align="left">
-        <img src="https://img.shields.io/badge/RESEARCH-NeoPhyte-white?style=flat-square&logoColor=black" /><br>
-        <b>AR & VR Research</b><br>
-        <small>Leveraged NVIDIA Omniverse for 3D digital cloning. Optimized mobile rendering via low-poly texture mapping and rigged environments.</small>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 <h2 align="center">Technical Environment</h2>
 
 <table align="center">
